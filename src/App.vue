@@ -104,7 +104,7 @@ body {
 
 
 
-@media screen and (max-width:798px) {
+@media (max-width:798px) {
   #main-container{
     width: auto;
   }
